@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dittel
 - 👀 I’m interested in my development with software.
-- 🌱 I’m currently learning python, mysql, php, c++.
+- 🌱 I’m currently learning python, mySQL, sgreSQL, php, c++, C#.
 - 📫 I'm accesible by my mail sshr@mail.ru.
 
 <!---
